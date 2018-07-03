@@ -1,0 +1,5 @@
+# rendered sounds files
+*.wav
+
+# vim files
+*.swp
